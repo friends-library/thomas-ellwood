@@ -261,6 +261,9 @@ they do,--to him who preserved and withheld me from shedding; man's blood.
 Which is the reason, I have given this account of that action,
 that others may be warned by it.
 
+[.small-break]
+'''
+
 1658.--About this time my dear and honoured mother,
 who was indeed a woman of singular worth and virtue, departed this life,
 having a little before heard of the death of her eldest son;
@@ -1370,17 +1373,15 @@ in which I thought I made but a slow progress--
 my soul breathing after further attainments;
 the sense of which drew from me the following lines.
 
+[verse]
+____
 The winter tree
-
 Resembles me,
-
 Whose sap lies in its root:
-
 The spring draws nigh;
-
 As it, so I
-
 Shall bud, I hope, and shoot.
+____
 
 At length it pleased the Lord to move Isaac Penington
 and his wife to make a visit to my father,
@@ -2118,6 +2119,10 @@ of my being taken up and brought prisoner to the marshal's. Whereupon
 it pleased the Lord to move the heart of my dear friend Thomas Loe,
 to salute me with a very tender and affectionate letter in the following terms:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My beloved friend.
 
 In the Truth and love of the Lord Jesus,
@@ -2142,8 +2147,10 @@ Oh, dear heart, let us give up all freely into the will of God,
 that God may be glorified by us, and we comforted together in the Lord Jesus;
 which is the desire of my soul, who am thy dear and loving friend in the eternal truth,
 
-Thomas Loe,
+[.signed-section-signature]
+Thomas Loe.
 
+[.postscript]
 P+++.+++ S. We are more than forty here,
 who suffer innocently for the testimony of a good conscience; because we cannot swear,
 and break Christ's commands.
@@ -2151,6 +2158,8 @@ And we are all well, and the blessing and presence of God is with us.
 Friends here salute thee.
 Farewell.
 The power and the wisdom of the Lord God be with thee, amen.
+
+--
 
 Greatly was my spirit refreshed, and my heart gladdened,
 at the reading of this consolating letter from my friend;
@@ -2164,6 +2173,10 @@ to visit me with some encouraging lines from Aylesbury jail,
 where he was then a prisoner; from whence,
 having heard that I was carried prisoner to Oxford, he thus saluted me:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Thomas,
 
 Great hath been the Lord's goodness to thee,
@@ -2187,8 +2200,13 @@ and the utter weakening of thee as to self.
 My dear love is to thee, with dear Thomas Goodyare, and the rest of imprisoned Friends.
 I remain thine in truth, to which the Lord my God preserve thee single and faithful.
 
+[.signed-section-signature]
 I+++.+++ Penington.
+
+[.signed-section-context-close]
 From Aylesbury jail, the 14th of Twelfth month, 1660.
+
+--
 
 Though these epistolary visits in the love of God,
 were very comfortable and confirming to me,
@@ -4099,13 +4117,13 @@ without further treaty or mention of terms between us, than that of mutual frien
 And to render this digression from my own studies the less uneasy to my mind,
 I recollected, and often thought of that rule in Lilly;
 
+[verse]
+____
 He that th' unlearned doth teach, may
-
 quickly be
-
 More learn'd than they, though most
-
 unlearned he.
+____
 
 With this consideration I undertook this province, and left it not until I married,
 which was not till the year 1669, nearly seven years from the time I came thither.
@@ -4128,9 +4146,11 @@ and high affection for him resulting therefrom, did so deeply affect my mind,
 that it was some pretty time before my passion could prevail to express itself in words;
 so true I found that of the tragedian.
 
+[verse]
+____
 Light griefs break forth, and easily get vent,
-
 Great ones are through amazement closely pent.
+____
 
 1663.--I went on in my new province,
 instructing my little pupils in the rudiments of the Latin tongue,
@@ -4255,6 +4275,9 @@ ten pounds for the second, and banishment for the third;
 with pain of felony for escaping or returning without license.
 This law was looked upon, to have been procured by the bishops,
 in order to bring us to a conformity to their way of worship.
+
+[.small-break]
+'''
 
 1665.--And no sooner was it made, but it was put in execution with great severity.
 The sense whereof working strongly on my spirit, made me cry earnestly to the Lord,
@@ -4443,7 +4466,7 @@ and read it at my leisure; and when I had so done,
 return it to him with my judgment thereupon.
 
 When I came home, and had set myself to read it, I found it was that excellent poem,
-which he entitled Paradise Lost.
+which he entitled [.book-title]#Paradise Lost#.
 After I had, with the best attention, read it through, I made him another visit,
 and returned him his book,
 with due acknowledgment of the favour he had done me in communicating it to me.
@@ -4676,6 +4699,9 @@ yet did we sensibly find, that forsaking without confessing, in case of public s
 was not sufficient; but that an open acknowledgment of open offences,
 as well as forsaking them, was necessary to the obtaining complete remission.
 
+[.small-break]
+'''
+
 1668.--Not long after this,
 George Fox was moved of the Lord to travel through the country, from county to county,
 to advise and encourage Friends to set up monthly and quarterly meetings,
@@ -4734,6 +4760,9 @@ and the following winter I spent with the children of the family as before,
 without any remarkable alteration in my circumstances, until the next spring;
 when I found in myself a disposition of mind to
 change my single life for a married state.
+
+[.small-break]
+'''
 
 1669.--I had always entertained so high a regard for marriage,
 as it was a divine institution,
@@ -5060,6 +5089,9 @@ As soon as I had despatched the business I went about, I returned home without d
 and to my great comfort found my wife well, and myself very welcome to her;
 both which I esteemed as great favours.
 
+[.small-break]
+'''
+
 1670.--Towards the latter part of the summer following, I went into Kent again,
 and in my passage through London,
 received the unwelcome news of the loss of a very hopeful youth,
@@ -5140,10 +5172,11 @@ After the meeting was ended, I sent to my friend Isaac Penington by his son and 
 who, though it was late, returned home that evening,
 a short account of the business in the following distich.
 
+[verse]
+____
 Truth hath prevailed, the enemies did fly:
-
 We are in safety; praise to God on high.
-
+____
 
 But both they and we had quickly other work found us; for it soon became a stormy time.
 The clouds had been long gathering and threatened a tempest.
@@ -5548,6 +5581,9 @@ as it deeply affected my heart with a sympathizing pity for the oppressed suffer
 so it raised in my spirit a holy disdain and contempt of that spirit and its agent,
 by which this ungodly work was stirred up and carried on.
 
+[.small-break]
+'''
+
 1672.--Scarcely was the before-mentioned storm of
 outward persecution from the government blown over,
 when Satan raised against us a storm of another kind.
@@ -5595,6 +5631,9 @@ who had discovered such favourable thoughts of our principles and us,
 they set themselves, as soon as the storm was over, to represent us in as ugly a dress,
 and in as frightful a figure to the world, as they could invent and put upon us.
 
+[.small-break]
+'''
+
 1673.--In order whereto, one Thomas Hicks, a preacher among the Baptists, at London,
 took upon him to write several pamphlets successively,
 under the title of a Dialogue between a Christian and a Quaker;
@@ -5610,12 +5649,15 @@ as could not reasonably be supposed to have come into the conceit,
 much less to have dropped from the lip or pen of any who went under the name of a Quaker.
 
 These dialogues were answered by our friend William Penn, in two books;
-the first being entitled, Reason against Railing; the other,
-the Counterfeit Christian detected; in which Hicks being charged with manifest,
+the first being entitled, [.book-title]#Reason Against Railing#; the other,
+[.book-title]#The Counterfeit Christian Detected#; in which Hicks being charged with manifest,
 as well as manifold forgeries, perversions, downright lies and slanders,
 against the people called Quakers in general, and William Penn,
 George Whitehead and divers others by name; complaint was made, by way of an appeal,
 to the Baptists in and about London, for justice against Thomas Hicks.
+
+[.small-break]
+'''
 
 1674.--Those Baptists, who it seems were in the plot with Hicks, to defame at any rate,
 right or wrong, the people called Quakers,
@@ -5699,7 +5741,7 @@ To this I quickly wrote and published an answer.
 And because I saw the design and whole drift of the Baptists,
 was to shroud Thomas Hicks from our charge of forgery,
 under the specious pretence of his and their standing up and contending for Christianity,
-I gave my book this general title: Forgery no Christianity;
+I gave my book this general title: [.book-title]#Forgery No Christianity#;
 or a brief Examen of a late book, etc.
 And having from their own book,
 plainly convicted that which they called a faithful relation,
@@ -5732,6 +5774,9 @@ and was indeed rather more ready, than true and sound, in framing syllogisms.
 But his chief art lay in tickling the humour of rude, unlearned and injudicious hearers,
 thereby insinuating himself into their good opinion, and then bantering his opponent.
 
+[.small-break]
+'''
+
 1675.--The controversy which had been stirred up by those cavilling Baptists,
 had not been long ended,
 before another was raised by an Episcopal priest in Lincolnshire, who fearing,
@@ -5743,9 +5788,12 @@ that he might thereby beget an aversion to them;
 and that he might abuse us the more securely, he concealed himself,
 sending forth his book without a name.
 
+[.small-break]
+'''
+
 1676.--This book coming to my hand, it became my concern, (after I had read it,
 and considered the evil management, and worse design thereof) to answer it;
-which I did in a treatise called Truth prevailing, and detecting Error;
+which I did in a treatise called [.book-title]#Truth Prevailing, and Detecting Error#;
 published in the year 1676.
 
 My answer I divided, according to the several subjects handled in the conference,
@@ -5764,7 +5812,10 @@ said to be written by the author of the feigned conference,
 who was not yet willing to trust the world with his name.
 So much of it as related to the subject I was then upon,
 I took into my rejoinder to the right of tithes, which I published in the year 1678,
-with this title, the Foundation of Tithes shaken, etc.
+with this title, [.book-title]#the Foundation of Tithes Shaken#, etc.
+
+[.small-break]
+'''
 
 1680.--After this, it was a pretty while before I heard from either of them again.
 But at length came forth a reply to my last, supposed to be written by the same hand,
@@ -5814,6 +5865,9 @@ the stile of Christian Quaker;
 and no less impiously than uncharitably branding and rejecting all others,
 even the main body of Friends, for apostates and innovators.
 
+[.small-break]
+'''
+
 1681.--When this book came abroad, it was not a little (and he,
 for its sake) cried up by his injudicious admirers,
 whose applause setting his head afloat,
@@ -5837,6 +5891,9 @@ and thereby refusing us another meeting with him, which we had earnestly provoke
 this slight shift,
 that he had before given earnest for his passage in the stage-coach home,
 and was not willing to lose it.
+
+[.small-break]
+'''
 
 1682.--I had before this gotten a sight of his book,
 and procured one for my use on this occasion, but I had not time to read it through.
@@ -5870,8 +5927,8 @@ that by the time my friend came back, I had gone through the greatest part of it
 and was too far engaged in spirit, to think of giving over the work: wherefore,
 requesting him to continue the book a little longer with me,
 I soon after finished the answer, which, with Friends' approbation was printed,
-under the title of "`An Antidote against the infection of William Rogers' book,
-miscalled The Christian Quaker,`" etc.
+under the title of [.book-title]#An Antidote against the infection of William Rogers' book,
+miscalled The Christian Quaker#, etc.
 This was written in the year 1682.
 But no answer was given to it, as far as I have ever heard,
 either by him or any other of his party; though many others were concerned therein,
@@ -5899,6 +5956,9 @@ This was thought to have some good service where it came,
 upon such sober and moderate officers, as well justices as constables, etc.,
 as acted rather by constraint than choice; by encouraging them to stand their ground,
 with more courage and resolution, against the insults of saucy informers.
+
+[.small-break]
+'''
 
 1683.--But whatever ease it brought to others, it brought me some trouble,
 and had like to have brought me into more danger,
@@ -6273,4 +6333,3 @@ by other people of the world paying their fines and fees for them;
 and shortly after Stephen Pewsey, by the town and parish where he lived,
 for fear his wife and children should become a charge upon them.
 The other seventeen remained prisoners till king James' proclamation of pardon.
-
