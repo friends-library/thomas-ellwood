@@ -1,5 +1,6 @@
 == Appendix
 
+[.chapter-subtitle--blurb]
 Containing a Supplementary Memoir of the Life of Thomas Ellwood.
 
 It does not appear that Thomas Ellwood left any account of his own life,
@@ -20,6 +21,9 @@ to check the tendency to division and declension which
 had manifested in some measure in the Society;
 exhorting his fellow members to maintain a true consistency of conduct,
 and to guard against the injurious effects of a worldly spirit, as follows:
+
+[.embedded-content-document.letter]
+--
 
 Dear friends, unto whom the gathering arm of the Lord has reached, and who have known,
 in your several measures, a being gathered thereby into the heavenly life,
@@ -400,8 +404,13 @@ and shower down his blessings upon them;
 which is the fervent desire of your faithful friend in
 the love and service of the unchangeable truth,
 
+[.signed-section-signature]
+Thomas Ellwood
 
-Thomas EllwoodThe 24th of the Second month, 1686.
+[.signed-section-context-close]
+The 24th of the Second month, 1686.
+
+--
 
 About the same time,
 Thomas Ellwood was occupied in transcribing and preparing for the press,
@@ -410,6 +419,10 @@ To this he also prefixed a brief,
 but comprehensive review of the character of his excellent and lamented friend;
 the insertion of which will probably not be unacceptable to the reader.
 
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
 Thomas Ellwood's Account of that Eminent and Honourable Servant of the Lord, George Fox.
 
 This holy man was raised up by God, in an extraordinary manner,
@@ -476,7 +489,10 @@ and bless the Lord for raising him up: and blessed shall we also be,
 if we so walk as we had him for an example; for whom this testimony lives in my heart,
 he lived and died the servant of the Lord.
 
+[.signed-section-signature]
 Thomas Ellwood
+
+--
 
 In the year 1694, Thomas Ellwood engaged in controversy with George Keith;
 whose separation from his friends, and renunciation of those principles, of which,
@@ -536,14 +552,17 @@ Thomas Ellwood,
 anxious to counteract the calamitous effects of
 a disposition to break the bonds of union,
 and cast off the restraints of social order, wrote:
-
-"`An epistle to Friends,
+__"`An epistle to Friends,
 briefly commemorating the gracious dealings of the Lord with them,
 and warning them to beware of that spirit of contention and
-division which has appeared of late in George Keith.`"
+division which has appeared of late in George Keith.`"__
 
 The following is an extract from his introductory observations.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear friends,
 
 Whom the Lord has called with a holy calling, and who,
@@ -647,6 +666,8 @@ as the inducement to their undertaking, which they have industriously spread abr
 and varnished over with the fairest colours they could,
 to allure and draw others to join with them.
 
+--
+
 This publication excited the resentment of George Keith, who,
 after having in vain demanded its suppression by the Society,
 opposed it with what he styled "`A Loving Epistle;`" in
@@ -680,11 +701,11 @@ on the subject of Baptism, which was not presented to the public.
 This period of relaxation from other engagements,
 facilitated his completion of a connected view of Scripture history, digested,
 as far as he possessed the means of ascertaining it, in chronological order.
-The first part appeared in 1705, under the title of "`Sacred History,
+The first part appeared in 1705, under the title of [.book-title]#Sacred History,
 or the historical parts of the Holy Scriptures of the Old Testament,
 gathered out from the other parts thereof, and digested, as near as well could be,
 into due method with respect to order of time and place:
-with some observations here and there, tending to illustrate some passages therein.`"
+with some observations here and there, tending to illustrate some passages therein.#
 The second part, comprising the history of the New Testament, followed in 1709.
 This is a work of considerable merit, and has been favourably received by the Society,
 as is evinced by the sale of four editions, and the publication of a fifth,
@@ -698,15 +719,15 @@ of Abingdon, Berkshire, committed to him during the life of the author,
 and to which he prefixed a pertinent testimony respecting him.
 
 The year following, he ushered into the world the last, but not least,
-effort of his muse, entitled--"`Davideis: the life of David,
+effort of his muse, entitled--[.book-title]#Davideis: the life of David,
 king of Israel--A sacred poem,
-in five books;`" to the composition of which he
+in five books#; to the composition of which he
 had occasionally devoted some leisure hours,
 for a considerable number of years, without any view to publication.
 
 In a postscript to his "`Supplement,`" Joseph Wyeth says:
 "`I have understood that our friend T. Ellwood,
-after he had finished and published 'Davideis,' signified that
+after he had finished and published [.book-title]#Davideis#, signified that
 he had but one thing more which lay upon his mind,
 and that was, to add something to his journal;
 which was chiefly to give an account of his books and writings.`"
@@ -760,8 +781,8 @@ a good neighbour, and kind friend.'
 
 [.asterism]
 '''
-
-George Bowles' Testimony Concerning Thomas Ellwood.
+[.alt.centered]
+=== George Bowles' Testimony Concerning Thomas Ellwood.
 
 Dear Friends, It is in my heart on this occasion,
 briefly to commemorate the tender dealings of the Lord
@@ -946,14 +967,14 @@ the servant of the Lord and his people, and has left a sweet savour behind him,
 and his memory is blessed with the righteous for ever.
 Amen.
 
-George Bowles.Eighth month, 1713.
+[.signed-section-signature]
+George Bowles.
 
-[.asterism]
-'''
+[.signed-section-context-close]
+Eighth month, 1713.
 
-A Testimony from the monthly meeting at Hunger-hill, the 7th of the Fourth month, 1713,
-concerning our dear and well-beloved friend and brother in the Truth, Thomas Ellwood,
-deceased.
+[.alt.centered]
+=== A Testimony from the monthly meeting at Hunger-hill, the 7th of the Fourth month, 1713, concerning our dear and well-beloved friend and brother in the Truth, Thomas Ellwood, deceased.
 
 That the dead who die in the Lord, are blessed of him, we have great assurance,
 from John the divine in his writing to the seven churches; Rev. 14:13.
@@ -997,13 +1018,14 @@ He departed this life, the 1st of the third month 1713,
 and was honourably buried in Friends' burying-place at New Jordans,
 in the parish of Giles-Chalfont, in the county of Bucks, the 4th day of the same month.
 
-Signed by appointment of the monthly meeting by us, George Bowles, Wm. Grimsdall,
-James Smith, Daniel Wharley, Daniel Roberts, Abraham Barber, Thomas Olliffe.
+[.signed-section-closing]
+Signed by appointment of the monthly meeting by us,
 
-[.asterism]
-'''
+[.signed-section-signature]
+George Bowles, Wm. Grimsdall, James Smith, Daniel Wharley, Daniel Roberts, Abraham Barber, Thomas Olliffe.
 
-A Testimony from the Women's meeting concerning Thomas Ellwood.
+[.alt.centered]
+=== A Testimony from the Women's meeting concerning Thomas Ellwood.
 
 A concern is upon our spirits to write somewhat
 concerning our dear deceased friend and elder,
@@ -1113,12 +1135,11 @@ as it pleased the Lord to move upon our hearts.
 And being read and approved in our women's meeting at Hunger-hill,
 the 4th of the eleventh month 1713, was subscribed in behalf of the said meeting by us,
 
+[.signed-section-signature]
 Mary Baker, Mary Wharley, Mary Larcum.
 
-[.asterism]
-'''
-
-Richard Vivers' Testimony concerning Thomas Ellwood.
+[.alt.centered]
+=== Richard Vivers' Testimony concerning Thomas Ellwood.
 
 He was a man of great wisdom and understanding, and the Lord, the giver of it,
 being pleased to visit him in his early days, made choice of him,
@@ -1163,5 +1184,8 @@ and to be tender of the honour of his name; of the number of whom,
 this our deceased friend and brother was; who, although dead, yet his memory lives,
 and will be preserved amongst the righteous in generations yet to come.
 
+[.signed-section-signature]
 Richard Vivers.
+
+[.signed-section-context-close]
 Banbury, 30th of Eleventh month, 1714.

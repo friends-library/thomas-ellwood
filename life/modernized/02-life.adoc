@@ -260,6 +260,9 @@ they do,--to him who preserved and withheld me from shedding; man's blood.
 Which is the reason, I have given this account of that action,
 that others may be warned by it.
 
+[.small-break]
+'''
+
 1658.--About this time my dear and honoured mother,
 who was indeed a woman of singular worth and virtue, departed this life,
 having a little before heard of the death of her eldest son;
@@ -1345,7 +1348,7 @@ I thought, with all his strength.
 And, being bare-headed, I thought his blows must needs have broken my skull,
 had I not laid my arm over my head to defend it.
 
-His man seeing this, and not able to contain himself, stept between us,
+His man seeing this, and not able to contain himself, stepped between us,
 and laying hold on the cane, by strength of hand held it so fast,
 that though he attempted not to take it away,
 yet he withheld my father from striking with it; which did but enrage him the more.
@@ -1387,17 +1390,15 @@ in which I thought I made but a slow progress--
 my soul breathing after further attainments;
 the sense of which drew from me the following lines.
 
+[verse]
+____
 The winter tree
-
 Resembles me,
-
 Whose sap lies in its root:
-
 The spring draws nigh;
-
 As it, so I
-
 Shall bud, I hope, and shoot.
+____
 
 At length it pleased the Lord to move Isaac Penington
 and his wife to make a visit to my father,
@@ -2046,7 +2047,7 @@ that my refusing them was merely matter of conscience to me,
 and that I dared not take any oath whatsoever, if it were to save my life.
 
 When they heard this they left me again,
-and went and signed a mittimus to send me to prison at Oxford,
+and went and signed a court order to send me to prison at Oxford,
 and charged one of the troopers that brought me there,
 who was one of the newly-raised militia troops, to convey me safely to Oxford.
 But before we departed they called the trooper aside and gave
@@ -2095,7 +2096,7 @@ We came pretty late into Oxford on the seventh-day of the week, which was the ma
 and contrary to my expectation, which was to have been carried to the castle,
 my trooper stopped in the High street, and calling at a shop,
 asked for the master of the house; who coming to the door,
-he delivered to him the mittimus, and with it a letter from the deputy-lieutenants,
+he delivered to him the court order, and with it a letter from the deputy-lieutenants,
 or one of them, which when he had read, he asked where the prisoner was.
 Whereupon the soldier pointing to me, he desired me to alight and come in;
 which when I did, he received me civilly.
@@ -2134,6 +2135,10 @@ of my being taken up and brought prisoner to the marshal's. Whereupon
 it pleased the Lord to move the heart of my dear friend Thomas Loe,
 to salute me with a very tender and affectionate letter in the following terms:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My beloved friend.
 
 In the Truth and love of the Lord Jesus,
@@ -2158,8 +2163,10 @@ Oh, dear heart, let us give up all freely into the will of God,
 that God may be glorified by us, and we comforted together in the Lord Jesus;
 which is the desire of my soul, who am your dear and loving friend in the eternal truth,
 
-Thomas Loe,
+[.signed-section-signature]
+Thomas Loe.
 
+[.postscript]
 P+++.+++ S. We are more than forty here,
 who suffer innocently for the testimony of a good conscience; because we cannot swear,
 and break Christ's commands.
@@ -2167,6 +2174,8 @@ And we are all well, and the blessing and presence of God is with us.
 Friends here salute you.
 Farewell.
 The power and the wisdom of the Lord God be with you, amen.
+
+--
 
 Greatly was my spirit refreshed, and my heart gladdened,
 at the reading of this consoling letter from my friend;
@@ -2180,6 +2189,10 @@ to visit me with some encouraging lines from Aylesbury jail,
 where he was then a prisoner; from which,
 having heard that I was carried prisoner to Oxford, he thus saluted me:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Thomas,
 
 Great has been the Lord's goodness to you,
@@ -2203,8 +2216,13 @@ and the utter weakening of you as to self.
 My dear love is to you, with dear Thomas Goodyare, and the rest of imprisoned Friends.
 I remain yours in truth, to which the Lord my God preserve you single and faithful.
 
+[.signed-section-signature]
 I+++.+++ Penington.
+
+[.signed-section-context-close]
 From Aylesbury jail, the 14th of Twelfth month, 1660.
+
+--
 
 Though these epistolary visits in the love of God,
 were very comfortable and confirming to me,
@@ -2214,7 +2232,7 @@ that there should be so many faithful servants of God so near me,
 yet I should not be permitted to come at them, to enjoy their company,
 and reap both the pleasure and benefit of their sweet society.
 
-For although my marshall-keeper was very kind to me,
+For although my marshal-keeper was very kind to me,
 and allowed me the liberty of his house, yet he was not willing I should be seen abroad;
 the rather perhaps, because he understood I had been pretty well known in that city.
 Yet once the friendly baker got him to let me step over to his house; and once,
@@ -2258,7 +2276,7 @@ where, on that occasion,
 came the lord-lieutenant and the deputy-lieutenants of the county,
 of which number they who committed me were two.
 
-When they had been a while together, and the marshall with them, he stept suddenly in,
+When they had been a while together, and the marshal with them, he stepped suddenly in,
 and in haste told me I must get ready quickly to go out of town,
 and that a soldier would come by and by to go with me.
 This said, he hastened to them again, not giving me any intimation how I was to go,
@@ -2331,7 +2349,7 @@ as bad as the ways were, that I might have been out of his company.
 Wherefore I took no notice of any kindness in the offer, but only answered,
 I was at his disposal, not mine own.
 
-When we were ready to go, the marshall came to me and told me,
+When we were ready to go, the marshal came to me and told me,
 if I pleased I should ride his horse, and he would go in the coach with Mr. Clark.
 I was glad of the offer, and only told him he should take out his pistols then,
 for I would not ride with them.
@@ -2351,7 +2369,7 @@ and I met upon so brisk a gallop,
 that we had enough to do on either side to take up our horses and avoid a brush.
 
 When we were come to Weston, where Esquire Clark lived,
-he took the marshall and some others with him into the parlour;
+he took the marshal and some others with him into the parlour;
 but I was left in the hall, to be exposed a second time for the family to gaze on.
 
 At length he himself came out to me, leading in his hand a beloved daughter of his,
@@ -2360,13 +2378,13 @@ who lacked nothing to have made her beautiful except gravity.
 An airy piece she was; and very merry she made herself at me.
 
 When they had made themselves as much sport with me as they would,
-the marshall took his leave of them, and mounting me on a horse of Clark's,
+the marshal took his leave of them, and mounting me on a horse of Clark's,
 had me home to my father's that night.
 
-Next morning before the marshall went away,
+Next morning before the marshal went away,
 my father and he consulted together how to entangle me.
 I felt there were snares laid, but I did not know in what manner or to what end,
-till the marshall was ready to go.
+till the marshal was ready to go.
 And then, coming where he was to take his leave of me, he desired me to take notice,
 that although he had brought me home to my father's house again,
 yet I was not discharged from my imprisonment, but was his prisoner still;
@@ -2667,8 +2685,8 @@ but purely in obedience to the Lord's requirings, to worship him,
 which we held ourselves in duty bound to do, we could not consent to be bound,
 for that would imply guilt, which we were free from.
 
-'Then,' said he, 'I must commit you;' and ordered his clerk to make a mittimus.
-And several court orders were made, but none of them would hold;
+'Then,' said he, 'I must commit you;' and ordered his clerk to make a court order.
+Several court orders were made, but none of them would hold;
 for still when they came to be read, we found such flaws in them,
 as made him throw them aside and write more.
 
@@ -2711,7 +2729,7 @@ he could send for them when he would.
 and therefore I intend to hold you to it, either to give bail, or go to jail.'
 
 We told him we could not give bail.
-'Then,' said he, 'you must go to jail;' and thereupon he began to write our mittimus;
+'Then,' said he, 'you must go to jail;' and thereupon he began to write our court order;
 which puzzled him again.
 For he had discharged so many,
 that he was at a loss what to lay as the ground of our commitment,
@@ -2972,6 +2990,9 @@ with respect to my own health and the safety of others, I went up,
 in the beginning of the twelfth month, 1661, to my friend Isaac Penington's, at Chalfont,
 and abode there some time, for airing myself more fully,
 that I might be more fit for conversation.
+
+[.small-break]
+'''
 
 1662.--I mentioned before, that when I was a boy, I had made good progress in learning,
 and lost it all again before I came to be a man; nor was I rightly sensible of my loss,
@@ -4115,13 +4136,13 @@ without further treaty or mention of terms between us, than that of mutual frien
 And to render this digression from my own studies the less uneasy to my mind,
 I recollected, and often thought of that rule in Lilly;
 
+[verse]
+____
 He that the unlearned does teach, may
-
 quickly be
-
 More learned than they, though most
-
 unlearned he.
+____
 
 With this consideration I undertook this province, and left it not until I married,
 which was not till the year 1669, nearly seven years from the time I came there.
@@ -4144,9 +4165,11 @@ and high affection for him resulting therefrom, did so deeply affect my mind,
 that it was some time before my passion could prevail to express itself in words;
 so true I found that of the tragedian.
 
+[verse]
+____
 Light griefs break forth, and easily get vent,
-
 Great ones are through amazement closely pent.
+____
 
 1663.--I went on in my new province,
 instructing my little pupils in the rudiments of the Latin tongue,
@@ -4272,6 +4295,9 @@ with pain of felony for escaping or returning without license.
 This law was looked upon, to have been procured by the bishops,
 in order to bring us to a conformity to their way of worship.
 
+[.small-break]
+'''
+
 1665.--And no sooner was it made, but it was put in execution with great severity.
 The sense whereof working strongly on my spirit, made me cry earnestly to the Lord,
 that he would arise and set up his righteous judgment in the earth,
@@ -4368,7 +4394,7 @@ and therefore resolved not to make any contract or terms for either chamber rent
 but to demand a free prison; which we did.
 
 When we came in, the jailer had ridden out to wait on the judges,
-who came in that day to begin the assize,
+who came in that day to begin the court session,
 and his wife was somewhat at a loss how to deal with us; but being a cunning woman,
 she treated us with great appearance of courtesy,
 offering us the choice of all her rooms; and when we asked upon what terms,
@@ -4413,11 +4439,11 @@ he would thank us for it; and if not he would demand nothing.
 Upon these terms we went in and disposed ourselves; some in the dwelling-house,
 others in the malt-house, where they chose to be.
 
-During the assize we were brought before judge Morton, a sour angry man,
+During the court session we were brought before judge Morton, a sour angry man,
 who very rudely reviled us, but would not hear either us or the cause;
 but referred the matter to the two justices who had committed us.
 
-They, when the assize was ended, sent for us to be brought before them at their inn,
+They, when the court session was ended, sent for us to be brought before them at their inn,
 and fined us, as I remember, six shillings and eight pence a-piece;
 which we not consenting to pay,
 they committed us to prison again for one month from that time,
@@ -4459,7 +4485,7 @@ and read it at my leisure; and when I had so done,
 return it to him with my judgment thereupon.
 
 When I came home, and had set myself to read it, I found it was that excellent poem,
-which he entitled Paradise Lost.
+which he entitled [.book-title]#Paradise Lost#.
 After I had, with the best attention, read it through, I made him another visit,
 and returned him his book,
 with due acknowledgment of the favour he had done me in communicating it to me.
@@ -4563,9 +4589,9 @@ and that the pestilence was reported to be in that place, she in handsome terms,
 desired him to consider in time, how he would answer the cry of our blood,
 if by his sending us to be shut up in an infected place, we should lose our lives there?
 This made him alter his purpose,
-and by a new mittimus he sent us to the house of correction at Wiccomb.
+and by a new court order he sent us to the house of correction at Wiccomb.
 And although he committed us upon the act for banishment,
-which limited a certain time for imprisonment; yet he in his mittimus, limited no time,
+which limited a certain time for imprisonment; yet he in his court order, limited no time,
 but ordered us to be kept till we should be delivered by due course of law;
 so little regardful was he, though a lawyer, of keeping to the letter of the law.
 
@@ -4575,15 +4601,15 @@ which was some days above twelve weeks, and much above what the act required.
 
 Then we were sent for to the justice's house, and the rest being released,
 Morgan Watkins and I were required to find
-sureties for our appearance at the next assize;
+sureties for our appearance at the next court session;
 which we refusing to do, were committed a-new to our old prison,
-the house of correction at Wiccomb, there to lie until the next assizes:
-Morgan being in this second mittimus, represented as a notorious offender in preaching,
+the house of correction at Wiccomb, there to lie until the next court sessions:
+Morgan being in this second court order, represented as a notorious offender in preaching,
 and I as being upon the second conviction, in order to banishment.
 There we lay till the 25th day of the same month; and then,
 by the favour of the earl of Ancram, being brought before him at his house,
 we were discharged from the prison, upon our promise to appear,
-if at liberty and in health, at the assizes.
+if at liberty and in health, at the court session.
 Which we did, and were there discharged by proclamation.
 
 During my imprisonment in this prison, I betook myself for an employment,
@@ -4604,7 +4630,7 @@ which frequently raised in my heart thanksgivings and praises unto the Lord.
 And at one time more especially, the sense I had of the prosperity of Truth,
 and the spreading thereof, filling my heart with abundant joy, made my cup overflow.
 
-After we had been discharged at the assizes,
+After we had been discharged at the court session,
 I returned to Isaac Penington's family at Dottrel's in Chalfont, and as I remember,
 Morgan Watkins with me, leaving Isaac Penington a prisoner in Aylesbury jail.
 
@@ -4690,6 +4716,9 @@ yet did we sensibly find, that forsaking without confessing, in case of public s
 was not sufficient; but that an open acknowledgment of open offences,
 as well as forsaking them, was necessary to the obtaining complete remission.
 
+[.small-break]
+'''
+
 1668.--Not long after this,
 George Fox was moved of the Lord to travel through the country, from county to county,
 to advise and encourage Friends to set up monthly and quarterly meetings,
@@ -4748,6 +4777,9 @@ and the following winter I spent with the children of the family as before,
 without any remarkable alteration in my circumstances, until the next spring;
 when I found in myself a disposition of mind to
 change my single life for a married state.
+
+[.small-break]
+'''
 
 1669.--I had always entertained so high a regard for marriage,
 as it was a divine institution,
@@ -5073,6 +5105,9 @@ As soon as I had despatched the business I went about, I returned home without d
 and to my great comfort found my wife well, and myself very welcome to her;
 both which I esteemed as great favours.
 
+[.small-break]
+'''
+
 1670.--Towards the latter part of the summer following, I went into Kent again,
 and in my passage through London,
 received the unwelcome news of the loss of a very hopeful youth,
@@ -5153,10 +5188,11 @@ After the meeting was ended, I sent to my friend Isaac Penington by his son and 
 who, though it was late, returned home that evening,
 a short account of the business in the following distich.
 
+[verse]
+____
 Truth has prevailed, the enemies did fly:
-
 We are in safety; praise to God on high.
-
+____
 
 But both they and we had quickly other work found us; for it soon became a stormy time.
 The clouds had been long gathering and threatened a tempest.
@@ -5561,6 +5597,9 @@ as it deeply affected my heart with a sympathizing pity for the oppressed suffer
 so it raised in my spirit a holy disdain and contempt of that spirit and its agent,
 by which this ungodly work was stirred up and carried on.
 
+[.small-break]
+'''
+
 1672.--Scarcely was the before-mentioned storm of
 outward persecution from the government blown over,
 when Satan raised against us a storm of another kind.
@@ -5608,6 +5647,9 @@ who had discovered such favourable thoughts of our principles and us,
 they set themselves, as soon as the storm was over, to represent us in as ugly a dress,
 and in as frightful a figure to the world, as they could invent and put upon us.
 
+[.small-break]
+'''
+
 1673.--In order whereto, one Thomas Hicks, a preacher among the Baptists, at London,
 took upon him to write several pamphlets successively,
 under the title of a Dialogue between a Christian and a Quaker;
@@ -5623,12 +5665,15 @@ as could not reasonably be supposed to have come into the conceit,
 much less to have dropped from the lip or pen of any who went under the name of a Quaker.
 
 These dialogues were answered by our friend William Penn, in two books;
-the first being entitled, Reason against Railing; the other,
-the Counterfeit Christian detected; in which Hicks being charged with manifest,
+the first being entitled, [.book-title]#Reason Against Railing#; the other,
+[.book-title]#The Counterfeit Christian Detected#; in which Hicks being charged with manifest,
 as well as manifold forgeries, perversions, downright lies and slanders,
 against the people called Quakers in general, and William Penn,
 George Whitehead and several others by name; complaint was made, by way of an appeal,
 to the Baptists in and about London, for justice against Thomas Hicks.
+
+[.small-break]
+'''
 
 1674.--Those Baptists, who it seems were in the plot with Hicks, to defame at any rate,
 right or wrong, the people called Quakers,
@@ -5712,7 +5757,7 @@ To this I quickly wrote and published an answer.
 And because I saw the design and whole drift of the Baptists,
 was to shroud Thomas Hicks from our charge of forgery,
 under the specious pretence of his and their standing up and contending for Christianity,
-I gave my book this general title: Forgery no Christianity;
+I gave my book this general title: [.book-title]#Forgery No Christianity#;
 or a brief Examen of a late book, etc.
 And having from their own book,
 plainly convicted that which they called a faithful relation,
@@ -5745,6 +5790,9 @@ and was indeed rather more ready, than true and sound, in framing syllogisms.
 But his chief are lay in tickling the humour of rude, unlearned and injudicious hearers,
 thereby insinuating himself into their good opinion, and then bantering his opponent.
 
+[.small-break]
+'''
+
 1675.--The controversy which had been stirred up by those argumentative Baptists,
 had not been long ended,
 before another was raised by an Episcopal priest in Lincolnshire, who fearing,
@@ -5756,9 +5804,12 @@ that he might thereby beget an aversion to them;
 and that he might abuse us the more securely, he concealed himself,
 sending forth his book without a name.
 
+[.small-break]
+'''
+
 1676.--This book coming to my hand, it became my concern, (after I had read it,
 and considered the evil management, and worse design thereof) to answer it;
-which I did in a treatise called Truth prevailing, and detecting Error;
+which I did in a treatise called [.book-title]#Truth Prevailing, and Detecting Error#;
 published in the year 1676.
 
 My answer I divided, according to the several subjects handled in the conference,
@@ -5777,7 +5828,10 @@ said to be written by the author of the feigned conference,
 who was not yet willing to trust the world with his name.
 So much of it as related to the subject I was then upon,
 I took into my rejoinder to the right of tithes, which I published in the year 1678,
-with this title, the Foundation of Tithes shaken, etc.
+with this title, [.book-title]#The Foundation of Tithes Shaken#, etc.
+
+[.small-break]
+'''
 
 1680.--After this, it was a while before I heard from either of them again.
 But at length came forth a reply to my last, supposed to be written by the same hand,
@@ -5827,6 +5881,9 @@ the stile of Christian Quaker;
 and no less impiously than uncharitably branding and rejecting all others,
 even the main body of Friends, for apostates and innovators.
 
+[.small-break]
+'''
+
 1681.--When this book came abroad, it was not a little (and he,
 for its sake) cried up by his injudicious admirers,
 whose applause setting his head afloat,
@@ -5850,6 +5907,9 @@ and thereby refusing us another meeting with him, which we had earnestly provoke
 this slight shift,
 that he had before given earnest for his passage in the stage-coach home,
 and was not willing to lose it.
+
+[.small-break]
+'''
 
 1682.--I had before this gotten a sight of his book,
 and procured one for my use on this occasion, but I had not time to read it through.
@@ -5883,8 +5943,8 @@ that by the time my friend came back, I had gone through the greatest part of it
 and was too far engaged in spirit, to think of giving over the work: wherefore,
 requesting him to continue the book a little longer with me,
 I soon after finished the answer, which, with Friends' approbation was printed,
-under the title of "`An Antidote against the infection of William Rogers' book,
-miscalled The Christian Quaker,`" etc.
+under the title of [.book-title]#An Antidote Against the Infection of William Rogers' Book,
+miscalled The Christian Quaker#, etc.
 This was written in the year 1682.
 But no answer was given to it, as far as I have ever heard,
 either by him or any other of his party; though many others were concerned therein,
@@ -5912,6 +5972,9 @@ This was thought to have some good service where it came,
 upon such sober and moderate officers, as well justices as constables, etc.,
 as acted rather by constraint than choice; by encouraging them to stand their ground,
 with more courage and resolution, against the insults of saucy informers.
+
+[.small-break]
+'''
 
 1683.--But whatever ease it brought to others, it brought me some trouble,
 and had like to have brought me into more danger,
@@ -6128,11 +6191,11 @@ and my book might be construed to import sedition,
 in discouraging the officers from putting the laws in execution,
 as by law and by their oath they were bound.
 And in fine brought it to this issue, that they were directed to secure me,
-by a commitment to prison until the assize,
+by a commitment to prison until the court session,
 at which I should receive a further charge than they were provided now to give me;
 but because they were desirous to forward my visit to madam Penn,
 they told me they would admit me to bail, and therefore if I would enter a recognizance,
-with sufficient sureties, for my appearance at the next assize,
+with sufficient sureties, for my appearance at the next court session,
 they would leave me at liberty to go on my journey.
 
 I told them, I could not do it.
@@ -6170,7 +6233,7 @@ I mean, replied I, if I am not disabled, or prevented by sickness or imprisonmen
 For, added I, as you alledge that it is a troublesome time, I perhaps may find it so.
 I may for ought I know, be seized and imprisoned elsewhere,
 on the same account for which I now stand here before you, and if I should,
-how then could I appear at the assize in this county?
+how then could I appear at the court session in this county?
 'Oh,' said they, 'these are due limitations indeed!
 Sickness or imprisonment are lawful excuses, and if either of these befall you,
 we shall not expect your appearance here; but then you must certify us,
@@ -6213,7 +6276,7 @@ but none came.
 I spake with those Friends who had been with me when I was before them,
 and they said they had heard nothing of it from them,
 although they had since been in company with them.
-At length the assize came; but no notice was given to me, that I should appear there;
+At length the court session came; but no notice was given to me, that I should appear there;
 in fine, they never troubled themselves or me any further about it.
 
 Thus was a cloud that looked black and threatened a great storm,

@@ -1,5 +1,6 @@
 == Appendix
 
+[.chapter-subtitle--blurb]
 Containing a Supplementary Memoir of the Life of Thomas Ellwood.
 
 It does not appear that Thomas Ellwood left any account of his own life,
@@ -40,7 +41,7 @@ on behalf generally of all that suffer for conscience' sake;
 particularly the people called Quakers.`"
 
 The following extracts comprise the author's introduction of his subject,
-and the heads of his arguments.
+and the heads of his arguments:
 
 "`Persecution is a word of so harsh a sound,
 and so generally distasteful to English ears,
@@ -60,41 +61,54 @@ and perform some other exercise of religion and way of worship,
 which they who are so compelled are either firmly persuaded is not right,
 or at least have no belief that it is right.
 
-This, in short, is that which I call persecution; and this is that which I dissuade from,
+"`This, in short, is that which I call persecution; and this is that which I dissuade from,
 whatever other name the actors of it may please themselves in calling it by.
 
-I. "`To begin now with the first of these, viz:
+[.embedded-content-document.paper]
+--
+
+[.numbered]
+"`I. To begin now with the first of these, viz:
 the forcing or compelling of any to forsake that exercise of religion, or way of worship,
 which they believe to be right:--the reasons by which I shall
 endeavour to dissuade all men from such an undertaking,
-are these: "`1. You may, for aught you know, be found fighting against God: you are not,
+are these:
+
+[.numbered]
+--"`1. You may, for aught you know, be found fighting against God: you are not,
 you cannot be, upon your own principles, infallibly sure,
 that that way of worship which you thus endeavour to force us from,
 is not the true worship of God.
 
-"`2. By endeavouring to force us from that way of worship,
+[.numbered]
+--"`2. By endeavouring to force us from that way of worship,
 which we believe the Lord hath led us into, and requireth of us,
 you endeavour to force us to make shipwreck of faith.
 
-"`3. In endeavouring, by force and cruelty, to restrain us from worshipping God,
+[.numbered]
+--"`3. In endeavouring, by force and cruelty, to restrain us from worshipping God,
 as we are fully persuaded he hath taught us and doth require of us,
 you go out of the path of the righteous,
 and tread in the steps of the wicked and ungodly.
 
-"`4. That exercise of religion which you would force us from,
+[.numbered]
+--"`4. That exercise of religion which you would force us from,
 is not simply of itself condemned and disallowed by that law,
 by the severity of which you would force us from it.
 
-"`5. In thus eagerly pursuing us, and disturbing our peaceable meetings,
+[.numbered]
+--"`5. In thus eagerly pursuing us, and disturbing our peaceable meetings,
 you give yourselves, as well as us, a great deal of needless trouble.
 For, as that learned doctor in the Jewish law did well observe,
 'if this counsel or this work be of men, it will come to naught; but if it be of God,
 ye cannot overthrow it:'--so I say to you in our case.
 
-"`6. And lastly, be pleased to consider,
+[.numbered]
+--"`6. And lastly, be pleased to consider,
 what sort of agents and instruments you are fain to make use of,
 and not seldom are yourselves made use of by, to carry on this work.`"
 
+[.numbered]
 "`II. Now for the other branch of persecution, viz:
 The forcing or compelling of any to embrace some exercise of religion and way of worship,
 which they are firmly persuaded is not right,
@@ -102,24 +116,30 @@ or at least have no belief that it is right:
 the reasons by which I shall endeavour to dissuade all men from such an undertaking,
 are these:
 
-"`1. In thus imposing your way of worship upon others,
+[.numbered]
+--"`1. In thus imposing your way of worship upon others,
 you act quite contrary to Christ and his apostles.
 
-"`2. In thus imposing your way of worship upon others, you follow the worst of patterns,
+[.numbered]
+--"`2. In thus imposing your way of worship upon others, you follow the worst of patterns,
 Nebuchadnezzar king of Babylon, etc.
 
-"`3. In forcing people to your way of worship, who have no belief that it is the right,
+[.numbered]
+--"`3. In forcing people to your way of worship, who have no belief that it is the right,
 you cause them to sin; for whatsoever is not of faith is sin.
 
-"`4. In forcing people to your way of worship,
+[.numbered]
+--"`4. In forcing people to your way of worship,
 who have a firm persuasion and belief that it is not the right,
 you make men hypocrites and time-servers.
 
-"`5. By obtruding and enforcing your religion upon others,
+[.numbered]
+--"`5. By obtruding and enforcing your religion upon others,
 you greatly disparage and undervalue it,
 and give men the more ground to suspect and dislike it.
 
-"`6. You break that great command, which Christ says is the law and the prophets, viz:
+[.numbered]
+--"`6. You break that great command, which Christ says is the law and the prophets, viz:
 'All things whatsoever ye would that men should do to you, do ye even so to them.'
 
 "`In conclusion, he makes the following energetic appeal to persecutors,
@@ -158,7 +178,7 @@ by the rough hands of rude and boisterous officers and soldiers,
 who have given divers of our friends those blows,
 which in few days have brought them to their graves!
 
-"`I might add to these, burning in the forehead-- cutting off ears--unmerciful beatings,
+"`I might add to these, burning in the forehead--cutting off ears--unmerciful beatings,
 whippings, and cruel scourgings.
 But did any, or all of these deter us from the worship of our God?
 Nay! hath not our cheerfully undergoing all these hardships,
@@ -187,6 +207,8 @@ and that we find our meetings worth suffering for.
 For, indeed, in our meetings we do meet with the Lord our God,
 'in whose presence is fulness of joy.'`"
 
+--
+
 About the year 1685, William Rogers made another attack upon the Society,
 directed in particular against George Whitehead; who, as well as Thomas Ellwood,
 had several years before been engaged in controversy with him,
@@ -195,7 +217,10 @@ in reply to his Christian Quaker Distinguished.
 Rogers' present production was styled A Rhyming Scourge for George Whitehead,
 who probably not thinking himself qualified to meet his adversary with a rhyming reply,
 Thomas Ellwood undertook the defence of his friend, by a publication entitled,
-Rogero Mastix-- A Rod for William Rogers, in return for his Rhyming Scourge.
+[.book-title]#Rogero Mastix--A Rod For William Rogers, In Return For His Rhyming Scourge#.
+
+[.small-break]
+'''
 
 In the early part of the succeeding year, 1686,
 Thomas Ellwood published a general Epistle to Friends, in which he endeavoured,
@@ -204,6 +229,9 @@ to check the tendency to division and declension
 which had then manifested itself in the Society;
 exhorting his fellow members to maintain a true consistency of conduct,
 and to guard against the injurious effects of a worldly spirit, as follows, viz:
+
+[.embedded-content-document.epistle]
+--
 
 Dear friends, unto whom the gathering arm of the Lord hath reached, and who have known,
 in your several measures, a being gathered thereby into the heavenly life,
@@ -583,13 +611,18 @@ and shower down his blessings upon them;
 which is the fervent desire of your faithful friend in
 the love and service of the unchangeable truth,
 
+[.signed-section-signature]
+Thomas Ellwood.
 
-Thomas Ellwood.The 24th of the Second month, 1686.
+[.signed-section-context-close]
+The 24th of the Second month, 1686.
+
+--
 
 We find no account of Thomas Ellwood's employment during the four following years,
 except that some part of the retirement and leisure
 which that period appears to have afforded him,
-was occupied in the composition of the first three books of his "`Davideis.`"
+was occupied in the composition of the first three books of his [.book-title]#Davideis#.
 "`But then,`" says Joseph Wyeth, "`the Prince of Orange landing,
 and the revolution following, the nation being in arms against king James,
 the noise of guns, and sound of drums, etc., so disturbed his meditation and gentle muse,
@@ -598,7 +631,7 @@ and he thereupon left his work for above twenty years.`"
 
 About the year 1689, two members of the Society at Wiccomb,
 John Raunce and Charles Harris, created some dissension and separation,
-and published a memorial stating the grounds of their dissatisfaction ;
+and published a memorial stating the grounds of their dissatisfaction;
 to which Thomas Ellwood replied; and, in 1693,
 he wrote a paper in order to defend his reply,
 and to exonerate himself from the charge of misrepresentation,
@@ -610,11 +643,15 @@ A brief examination and state of Liberty Spiritual, etc.
 
 About the same time,
 Thomas Ellwood was occupied in transcribing and preparing for the press,
-the Journal of George Fox, who died in the 11th month, 1690.
+the [.book-title]#Journal of George Fox#, who died in the 11th month, 1690.
 To this he also prefixed a brief,
 but comprehensive review of the character of his excellent and lamented friend;
 the insertion of which will probably not be unacceptable to the reader.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Ellwood's account of that eminent and honourable servant of the Lord, George Fox.
 
 This holy man was raised up by God, in an extraordinary manner,
@@ -681,7 +718,10 @@ and bless the Lord for raising him up: and blessed shall we also be,
 if we so walk as we had him for an example; for whom this testimony lives in my heart,
 he lived and died the servant of the Lord.
 
+[.signed-section-signature]
 Thomas Ellwood
+
+--
 
 In the year 1694, Thomas Ellwood engaged in controversy with George Keith;
 whose separation from his friends, and renunciation of those principles, of which,
@@ -748,6 +788,10 @@ division which hath appeared of late in George Keith.`"
 
 The following is an extract from his introductory observations.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear friends,
 
 Whom the Lord hath called with an holy calling, and who,
@@ -850,6 +894,8 @@ as the inducement to their undertaking, which they have industriously spread abr
 and varnished over with the fairest colours they could,
 to allure and draw others to join with them.
 
+--
+
 This publication excited the resentment of George Keith, who,
 after having in vain demanded its suppression by the Society,
 opposed it with what he styled "`A Loving Epistle;`" in
@@ -888,13 +934,15 @@ and gave public notice of a meeting to be held there in the fourth month, 1696,
 "`to discover the Quakers' errors.`"
 Of this meeting he soon after published a narrative,
 which was followed by a reply from Thomas Ellwood's pen, entitled:
-"`An Answer to George Keith's Narrative of his Proceedings at Turner's hall, etc.,
+[.book-title]#An Answer to George Keith's Narrative of his Proceedings at Turner's hall, etc.#,
 wherein his charges against divers of the people called Quakers,
 in that and another book of his, called Gross Errors, etc., are fairly considered,
 examined and refuted.`"
 
 The following quotation will give some idea of the character of the meeting.
 
+[quote]
+____
 George Keith "`having published many books against us,
 and in defence of those books wrangled with us for a while in print,
 till he found himself too closely pinched,
@@ -922,7 +970,7 @@ and went on to arraign and convict us absent.
 The pageantry of this day's work, as acted there by himself,
 he hath since published with his name to it,
 under the title of 'An exact Narrative of the proceedings at Turner's hall, etc.,
-together with the disputes and speeches there, between G. Keith and other Quakers,
+together with the disputes and speeches there, between George Keith and other Quakers,
 differing from him in some religious principles.'
 How idle is this in him,
 to pretend in his title to give an account of disputes
@@ -932,17 +980,18 @@ nor any thing like it;
 and of that little that was said by any of those few Quakers that were present,
 most was to the people, tending to show them the unreasonableness of his undertaking,
 and desiring them to reserve one ear for the other side.
+____
 
-G+++.+++ Keith,
+George Keith,
 feeling probably some difficulty in openly opposing those
 principles of which he had so lately been a zealous defender,
-declined again meeting his opponent in propria persona,
+declined again meeting his opponent in __propria persona__,
 but found a ready champion in the author of "`The Snake
 in the Grass,`" who produced a vindication of his cause,
 as far at least as regarded the doctrines in dispute, styled,
 "`Satan Disrobed from his disguise of light,
-in reply to T. Ellwood's Answer to G. Keith's Narrative, 1697.`"
-T+++.+++ Ellwood made considerable progress in a reply,
+in reply to Thomas Ellwood's Answer to George Keith's Narrative, 1697.`"
+Thomas Ellwood made considerable progress in a reply,
 but relinquished the further prosecution of it.
 
 Towards the close of the year 1698, several clergymen of Norfolk,
@@ -954,9 +1003,9 @@ they endeavoured to avail themselves of more powerful weapons than their argumen
 and accordingly promoted the presentation to parliament,
 of two petitions against the Society.
 Thomas Ellwood published, early in the following year,
-"`A Sober Reply on behalf of the people called Quakers, to two Petitions against them,
+[.book-title]#A Sober Reply on behalf of the People called Quakers, to two Petitions against them,
 the one out of Norfolk, and the other from Bury in Suffolk,
-being some brief observations upon them.`"
+being some brief observations upon them.#
 The publication of this, with the activity of Friends resident in the metropolis,
 in furnishing members with correct information on the subject,
 by personal attendance on the house, as well as through the medium of the press,
@@ -986,13 +1035,16 @@ as collateral evidence of the soundness of that distinguished member of our Soci
 as well as of his contemporary fellow professors,
 in regard to the fundamental doctrines of the gospel.
 
-Now herein G. Keith's both injustice and malice are the greater, in charging W. Penn,
+[.embedded-content-document.paper]
+--
+
+Now herein George Keith's both injustice and malice are the greater, in charging William Penn,
 and his brethren the Quakers, with deism; inasmuch as he assuredly knows,
 which some adversaries have not had the like opportunity to know, as he hath had,
 by certain experience,
-drawn by so many years intimate conversation with W. Penn and the Quakers,
+drawn by so many years intimate conversation with William Penn and the Quakers,
 in free and familiar conferences, and in reading their books,
-that W. Penn and the Quakers, both in word and writing, publicly and privately,
+that William Penn and the Quakers, both in word and writing, publicly and privately,
 have always, and on all occasions, confessed, acknowledged, owned, as well as believed,
 the incarnation of Christ, according to the Holy Scriptures,
 viz.--That the Word was made flesh.--That when the fulness of time was come,
@@ -1013,29 +1065,29 @@ That he is at the right hand of God, and maketh intercession for us;
 and is our advocate with the Father.--And that it is He which was ordained of God,
 to be the Judge of quick and dead.
 
-These things, I say, G. Keith certainly knows have been constantly held, believed,
-professed, and owned by W. Penn and his brethren the Quakers in general,
+These things, I say, George Keith certainly knows have been constantly held, believed,
+professed, and owned by William Penn and his brethren the Quakers in general,
 both privately and publicly, in word and writing.
 These things are so often testified of in our meetings,
 and have been so fully and plainly asserted and held forth in our books,
 that we might call in almost as many witnesses thereof, as have frequented our meetings,
 or attentively read our books.
 
-The book of W. Penn's, called,
-'A Discourse of the general Rule of Faith and
-Life,' to which G. Keith's Deism is an answer,
-G+++.+++ Keith tells us in his preface, was first printed in the year 1673,
+The book of William Penn's, called,
+[.book-title]#A Discourse of the General Rule of Faith and
+Life,# to which George Keith's Deism is an answer,
+George Keith tells us in his preface, was first printed in the year 1673,
 as an appendix to William Penn's part of the Christian Quaker--a folio book in two parts;
-the former written by W. Penn, the latter by G. Whitehead.
-In that former part of the Christian Quaker, written by W. Penn,
+the former written by William Penn, the latter by George Whitehead.
+In that former part of the Christian Quaker, written by William Penn,
 though the tendency of it is to assert and defend the divinity of Christ,
 and his spiritual appearance by his divine light in the hearts of men;
 yet there is enough said concerning his manhood, his outward appearance,
 and his sufferings in the flesh,
-to free W. Penn from the imputation and suspicion of Deism.
+to free William Penn from the imputation and suspicion of Deism.
 
-No longer ago than in the year 1692, nineteen years after that book of W. Penn's, called,
-'A Discourse of the general Rule of Faith and Life,' was in print, G. Keith,
+No longer ago than in the year 1692, nineteen years after that book of William Penn's, called,
+[.book-title]#A Discourse of the general Rule of Faith and Life,# was in print, George Keith,
 in his serious Appeal, page 7, says,
 'According to the best knowledge I have of the people called Quakers,
 and those most generally owned by them, as preachers and publishers of their faith,
@@ -1047,8 +1099,8 @@ or any of his brethren; having been conversant with them, in public meetings,
 as well as in private discourse, with the most noted and esteemed among them,
 for above twenty-eight years past, and that in many places of the world, in Europe,
 and for these divers years in America.'
-I say, all this considered, how will G. Keith,
-upon the charges he now makes against W. Penn,
+I say, all this considered, how will George Keith,
+upon the charges he now makes against William Penn,
 acquit himself from having been a professed deist,
 all the while he was among the Quakers'? Yet he himself well knows, that neither he,
 nor William Penn, nor any of the Quakers, ever were deists; ever did deny, disown,
@@ -1059,7 +1111,9 @@ by a story he told in his first Narrative, page 38,
 that upon some urging him to give an instance of one
 English Quaker that he ever heard pray to Christ,
 William Penn, being present, said, 'I am an Englishman, and a Quaker;
-and I own I have often prayed to Christ Jesus, even him that was crucified'`"
+and I own I have often prayed to Christ Jesus, even him that was crucified.'`"
+
+--
 
 Before taking leave of George Keith, we may remark,
 that his congregation at Turner's hall, and his reputation among other dissenters,
@@ -1083,11 +1137,11 @@ on the subject of Baptism, which was not presented to the public.
 This period of relaxation from other engagements,
 facilitated his completion of a connected view of Scripture history, digested,
 as far as he possessed the means of ascertaining it, in chronological order.
-The first part appeared in 1705, under the title of "`Sacred History,
+The first part appeared in 1705, under the title of [.book-title]#Sacred History,
 or the historical parts of the Holy Scriptures of the Old Testament,
 gathered out from the other parts thereof, and digested, as near as well could be,
 into due method with respect to order of time and place:
-with some observations here and there, tending to illustrate some passages therein.`"
+with some observations here and there, tending to illustrate some passages therein.#
 The second part, comprising the history of the New Testament, followed in 1709.
 This is a work of considerable merit, and has been favourably received by the Society,
 as is evinced by the sale of four editions, and the publication of a fifth,
@@ -1105,6 +1159,8 @@ The following quotations,
 illustrative of the views with which the pious author engaged in his undertaking, will,
 we presume, be acceptable to those who do not possess the work.
 
+[quote]
+____
 What Cicero saith of history in general, namely, that it is, Temporum testis,
 lux veritatis, vita memorice, magistra vitcB, et nuncia antiquitatis;
 i. e. The witness of time, the light of truth, the life of memory, the mistress of life,
@@ -1137,7 +1193,7 @@ mis-spend their precious time; some in reading vain fictions, called romances,
 lewd novels, lascivious poems, and vice-promoting play books; others,
 more soberly and religiously inclined, in reading other books, if not much hurtful,
 yet not much instructive and beneficial, I hoped I should do no unacceptable service,
-at least to some, in presenting them with the Sacred History, so digested,
+at least to some, in presenting them with the [.book-title]#Sacred History#, so digested,
 as might both invite their attention, and recompense their pains in reading,
 with the double advantages of godly instruction and virtuous pleasure.
 
@@ -1148,7 +1204,8 @@ and ought to be read by all that can read, with diligence and attention of mind;
 since the history lies diffused and scattered throughout the whole book,
 it is no small discouragement to the reader,
 that is desirous to peruse the history in a regular course,
-to find the thread thereof frequently cut off by the interposition of other matters.`"
+to find the thread thereof frequently cut off by the interposition of other matters.
+____
 
 The biographer of Thomas Ellwood,
 in the Supplement which has been usually published with his own memoir,
@@ -1168,9 +1225,9 @@ and the commemoration of the death and passion of our ever blessed Lord and Savi
 under the species of bread and wine,
 are suitably and homogeneally adapted to the present and imperfect state of nature,
 as man consists of body, soul and spirit.`"
-His answer was entitled, "`The glorious brightness of the gospel day,
+His answer was entitled, [.book-title]#The Glorious Brightness of the Gospel Day,
 dispelling the shadows of the legal dispensation,
-and whatsoever else of human invention hath been super-added thereunto.`"
+and whatsoever else of human invention hath been super-added thereunto#.
 
 About the same time Thomas Ellwood was involved, with three other friends,
 in a suit for tithes, which was attended with much trouble and expense,
@@ -1198,15 +1255,15 @@ committed to him during the life of the author,
 and to which he prefixed a pertinent testimony respecting him.
 
 The year following, he ushered into the world the last, but not least,
-effort of his muse, entitled--"`Davideis: the life of David,
+effort of his muse, entitled--[.book-title]#Davideis: the life of David,
 king of Israel--A sacred poem,
-in five books;`" to the composition of which he
+in five books#; to the composition of which he
 had occasionally devoted some leisure hours,
 for a considerable number of years, without any view to publication.
 
 In a postscript to his "`Supplement,`" Joseph Wyeth says:
-"`I have understood that our friend T. Ellwood,
-after he had finished and published 'Davideis,' signified that
+"`I have understood that our friend Thomas Ellwood,
+after he had finished and published [.book-title]#Davideis#, signified that
 he had but one thing more which lay upon his mind,
 and that was, to add something to his journal;
 which was chiefly to give an account of his books and writings.`"
@@ -1225,7 +1282,7 @@ During this time he frequently expressed his love to his friends,
 and the pleasure he derived from their company--
 his desire for the welfare of the Society,
 and especially for that portion of it with which he had
-been more immediately connected -- and the resignation,
+been more immediately connected--and the resignation,
 peace, and joy,
 which attended his mind in the prospect of a speedy
 transition to a never ending state of being.
@@ -1248,7 +1305,7 @@ Truth,`" one of his contemporaries remarks,
 having an extraordinary talent given of the Lord for that work,
 more than many other brethren; and faithful he was in watching for instruction from God,
 to improve the same to his glory and the church's advantage.`"^
-footnote:[Richard Vivers' Testimony concerning T. Ellwood.]
+footnote:[Richard Vivers' Testimony concerning Thomas Ellwood.]
 The loss of his valuable services in the exercise of Christian discipline,
 was deeply felt by his friends, as is evinced by the testimonies to his worth,
 prefixed to his journal.
@@ -1259,10 +1316,13 @@ a good neighbour, and kind friend.'
 
 [.asterism]
 '''
+[.alt.centered]
+=== George Bowles' Testimony Concerning Thomas Ellwood.
 
-George Bowles' Testimony Concerning Thomas Ellwood.
+[.salutation]
+Dear Friends,
 
-Dear Friends, It is in my heart on this occasion,
+It is in my heart on this occasion,
 briefly to commemorate the tender dealings of the Lord
 with his people in this latter age of the world,
 when it hath pleased him, in love to poor lost man, graciously to appear,
@@ -1347,7 +1407,7 @@ but a blast from the Lord came upon their evil work; and how have they melted aw
 How is their strength failed, and their work brought to naught?
 But the blessing of the Lord is with his people, even with the faithful, to this day,
 whom he hath preserved as a peculiar treasure to himself:
-blessed be his holy name ibr evermore.
+blessed be his holy name for evermore.
 
 It may be truly said of this dear friend, that as the Lord fitted him for his service,
 so was he eminently serviceable in his hand, in the church of Christ;
@@ -1423,7 +1483,7 @@ in a tender sense of the Lord's goodness, could not well be collected;
 the sense of which deeply affected some of us who were with him.
 
 My heart is sorrowfully affected at this time,
-in a sense oi" the great loss which the church of Christ hath by his removal:
+in a sense of the great loss which the church of Christ hath by his removal:
 but in this I am comforted,
 in a living sense of the Lord's mercy and goodness towards him,
 in carrying him through his affliction in great patience and quietness;
@@ -1443,14 +1503,14 @@ the servant of the Lord and his people, and hath left a sweet savour behind him,
 and his memory is blessed with the righteous for ever.
 Amen.
 
-George Bowles.Eighth month, 1713.
+[.signed-section-signature]
+George Bowles.
 
-[.asterism]
-'''
+[.signed-section-context-close]
+Eighth month, 1713.
 
-A Testimony from the monthly meeting at Hunger-hill, the 7th of the Fourth month, 1713,
-concerning our dear and well-beloved friend and brother in the Truth, Thomas Ellwood,
-deceased.
+[.alt.centered]
+=== A Testimony from the monthly meeting at Hunger-hill, the 7th of the Fourth month, 1713, concerning our dear and well-beloved friend and brother in the Truth, Thomas Ellwood, deceased.
 
 That the dead who die in the Lord, are blessed of him, we have great assurance,
 from John the divine in his writing to the seven churches; Rev. 14:13.
@@ -1494,13 +1554,14 @@ He departed this life, the 1st of the third month 1713,
 and was honourably buried in Friends' burying-place at New Jordans,
 in the parish of Giles-Chalfont, in the county of Bucks, the 4th day of the same month.
 
-Signed by appointment of the monthly meeting by us, George Boavles, Wm. Geimsdall,
-James Smith, Daniel Whakley, Daniel Roberts, Abraham Barber, Thomas Olliffe.
+[.signed-section-closing]
+Signed by appointment of the monthly meeting by us,
 
-[.asterism]
-'''
+[.signed-section-signature]
+George Bowles, Wm. Geimsdall, James Smith, Daniel Whakley, Daniel Roberts, Abraham Barber, Thomas Olliffe.
 
-A Testimony from the Women's meeting concerning Thomas Ellwood.
+[.alt.centered]
+=== A Testimony from the Women's meeting concerning Thomas Ellwood.
 
 A concern is upon our spirits to write somewhat
 concerning our dear deceased friend and elder,
@@ -1611,12 +1672,11 @@ as it pleased the Lord to move upon our hearts.
 And being read and approved in our women's meeting at Hunger-hill,
 the 4th of the eleventh month 1713, was subscribed in behalf of the said meeting by us,
 
+[.signed-section-signature]
 Mary Baker, Mary Wharley, Mary Larcum.
 
-[.asterism]
-'''
-
-Richard Vivers' Testimony concerning Thomas Ellwood.
+[.alt.centered]
+=== Richard Vivers' Testimony concerning Thomas Ellwood.
 
 He was a man of great wisdom and understanding, and the Lord, the giver of it,
 being pleased to visit him in his early days, made choice of him,
@@ -1660,5 +1720,9 @@ hath given power to stand for his Truth whilst on earth,
 and to be tender of the honour of his name; of the number of whom,
 this our deceased friend and brother was; who, although dead, yet his memory liveth,
 and will be preserved amongst the righteous in generations yet to come.
-Richard Vivees.
+
+[.signed-section-signature]
+Richard Vivers.
+
+[.signed-section-context-close]
 Banbury, 30th of Eleventh month, 1714.
