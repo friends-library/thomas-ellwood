@@ -1161,9 +1161,9 @@ we presume, be acceptable to those who do not possess the work.
 
 [quote]
 ____
-What Cicero saith of history in general, namely, that it is, Temporum testis,
-lux veritatis, vita memorice, magistra vitcB, et nuncia antiquitatis; i. e.
-The witness of time, the light of truth, the life of memory, the mistress of life,
+What Cicero saith of history in general, namely, that it is,
+__Temporum testis, lux veritatis, vita memoriae, magistra vitae, et nuncia antiquitatis;__
+i.e. The witness of time, the light of truth, the life of memory, the mistress of life,
 and the messenger of antiquity, cannot be so well verified of any particular history,
 as of that which, being written by divinely inspired penmen,
 is contained in the books of the Old and New Testament:
