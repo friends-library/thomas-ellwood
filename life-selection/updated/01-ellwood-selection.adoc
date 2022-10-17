@@ -615,7 +615,7 @@ footnote:[At this time in history,
 the correct and plain use of "`thee`" and "`thou`" to a single
 person was beginning to give way to "`you`" and "`your.`"
 Most modern English speakers are unaware that the words "`you`" and "`your`"
-were originally _plural_ pronouns used only to address two or more people,
+were originally __plural__ pronouns used only to address two or more people,
 whereas "`thee`" and "`thou`" were used to address one person.
 In the 1600`'s,
 it became fashionable (as a means of showing honor or flattery) to use
@@ -1339,7 +1339,7 @@ and feeling a word rise up in my heart, I turned again and calmly said to him,
 footnote:[Ironically,
 though many at this time considered it belittling to be
 referred to with the single pronouns _thou_ and _thee,_
-yet every Christian, of every denomination and persuasion,
+still every Christian of every denomination and persuasion
 uniformly used these pronouns to address their Creator in prayer.]
 Though his hand was then up, I saw it sink down and his countenance fall,
 and he turned away and left me standing there.
@@ -1439,17 +1439,16 @@ Indeed, I thought I made but slow progress,
 and my soul continually breathed after further growth;
 the sense of which drew from me the following lines:
 
+[verse]
+____
 The winter tree
-
 Resembles me,
-
 Whose sap lies in its root:
 
 The spring draws nigh;
-
 As it, so I
-
 Shall bud, I hope, and shoot.
+____
 
 At length it pleased the Lord to move Isaac Penington
 and his wife to make a visit to my father,
@@ -1525,7 +1524,7 @@ dominion over it.
 [.asterism]
 '''
 
-Thomas Ellwood continued in heartfelt submission to the Spirit of Truth and so grew
+__Thomas Ellwood continued in heartfelt submission to the Spirit of Truth and so grew
 to become an esteemed elder and a very useful member of the early Society of Friends.
 Joseph Wyeth, in describing his character, says: "`He was a man of a comely aspect,
 of a free and generous disposition, of a courteous and affable temper,
@@ -1535,7 +1534,8 @@ For many years, Thomas Ellwood was very busy with his pen in defending the Truth
 publishing several books and treatises in response to the various slanders
 and misrepresentations that were printed by opponents of the Society.
 He also published a lengthy historical work on both the Old and New Testaments,
-called "`Sacred History,`" and a poetic piece called "`Davideis`" on the life of David,
+called [.book-title]#"`Sacred History,`"# and a poetic piece
+called [.book-title]#"`Davideis`"# on the life of David,
 king of Israel.
 However he is probably best known for being the original
 editor and publisher of the Journal of George Fox,
@@ -1547,4 +1547,4 @@ his health quickly gave way and he departed this
 life in the seventy-fourth year of his age.
 When very close to his end, in the presence of some friends,
 he announced in much brokenness of heart, "`I am full of joy and peace.
-My spirit is filled with joy.`"
+My spirit is filled with joy.`"__
